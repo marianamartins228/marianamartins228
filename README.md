@@ -9,4 +9,3 @@ Estou atualmente estudando SQL, Power BI e Python com o objetivo de fazer a tran
 
 # Meus Projetos
 ***
-[Projeto Teste](https://github.com/marianamartins228/teste)
